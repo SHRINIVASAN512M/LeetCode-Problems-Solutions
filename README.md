@@ -18,6 +18,7 @@ Write your name on line 6, save it, and then head back to GitHub Desktop.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SHRINIVASAN512M/LeetCode-Problems-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SHRINIVASAN512M/LeetCode-Problems-Solutions/tree/master/0009-palindrome-number) |
 ## String
 |  |
