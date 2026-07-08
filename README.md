@@ -11,6 +11,7 @@ Write your name on line 6, save it, and then head back to GitHub Desktop.
 | ------- |
 | [0001-two-sum](https://github.com/SHRINIVASAN512M/LeetCode-Problems-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SHRINIVASAN512M/LeetCode-Problems-Solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/SHRINIVASAN512M/LeetCode-Problems-Solutions/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,12 @@ Write your name on line 6, save it, and then head back to GitHub Desktop.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SHRINIVASAN512M/LeetCode-Problems-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/SHRINIVASAN512M/LeetCode-Problems-Solutions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/SHRINIVASAN512M/LeetCode-Problems-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
