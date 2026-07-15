@@ -24,6 +24,7 @@ Write your name on line 6, save it, and then head back to GitHub Desktop.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SHRINIVASAN512M/LeetCode-Problems-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/SHRINIVASAN512M/LeetCode-Problems-Solutions/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -40,9 +41,14 @@ Write your name on line 6, save it, and then head back to GitHub Desktop.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SHRINIVASAN512M/LeetCode-Problems-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/SHRINIVASAN512M/LeetCode-Problems-Solutions/tree/master/0015-3sum) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SHRINIVASAN512M/LeetCode-Problems-Solutions/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SHRINIVASAN512M/LeetCode-Problems-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
